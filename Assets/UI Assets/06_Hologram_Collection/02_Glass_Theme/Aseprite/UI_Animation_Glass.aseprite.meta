@@ -1,0 +1,1254 @@
+fileFormatVersion: 2
+guid: f57b905075e448e4ebcf1420e549524c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: UI_Animation_Glass_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 310
+      width: 32
+      height: 32
+    spriteID: 29306779f5602e041b07220d5c39c775
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 310}
+  - name: UI_Animation_Glass_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 350
+      width: 30
+      height: 30
+    spriteID: 73340be2c8f7a304785fcbf2e1070c55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 350}
+  - name: UI_Animation_Glass_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 344
+      width: 28
+      height: 28
+    spriteID: d0a700ba207c89a48a93a6e9905ea110
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 344}
+  - name: UI_Animation_Glass_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 388
+      width: 30
+      height: 30
+    spriteID: 15aeef7997c63844da148a0f90fb38e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 388}
+  - name: UI_Animation_Glass_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 426
+      width: 32
+      height: 26
+    spriteID: 0d7a6ab683d81d143b7ee3be06ceb21f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 426}
+  - name: UI_Animation_Glass_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 460
+      width: 32
+      height: 26
+    spriteID: bb74efffbf8a41c4db29b6e403e7a131
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 460}
+  - name: UI_Animation_Glass_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 4
+      width: 32
+      height: 26
+    spriteID: 278cf95854b210741bf2b1db69329927
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 4}
+  - name: UI_Animation_Glass_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 38
+      width: 32
+      height: 26
+    spriteID: 51b2cd641113ab640980e7f51c82c732
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 38}
+  - name: UI_Animation_Glass_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 72
+      width: 32
+      height: 26
+    spriteID: f264deb35e572d544b5617532d161bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 72}
+  - name: UI_Animation_Glass_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 106
+      width: 32
+      height: 26
+    spriteID: 5cf1b4d1653909844ad0e43a6978f1cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 106}
+  - name: UI_Animation_Glass_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 140
+      width: 32
+      height: 26
+    spriteID: 5057534b0ade21f409a88c2726097737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 140}
+  - name: UI_Animation_Glass_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 174
+      width: 32
+      height: 26
+    spriteID: fd49fa6b33780ae4b8251ab5514c9a12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 174}
+  - name: UI_Animation_Glass_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 208
+      width: 32
+      height: 26
+    spriteID: e4f32d45aece667438af8538906515c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 208}
+  - name: UI_Animation_Glass_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 242
+      width: 32
+      height: 26
+    spriteID: f818b5faa4c28e443ba16f059f5efbc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 242}
+  - name: UI_Animation_Glass_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 276
+      width: 32
+      height: 26
+    spriteID: 6b5202452ca482343963bf1d59a4386a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 276}
+  - name: UI_Animation_Glass_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 310
+      width: 32
+      height: 26
+    spriteID: 346f239b0a0b72e47a366c07212b708a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 310}
+  - name: UI_Animation_Glass_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 412
+      width: 64
+      height: 26
+    spriteID: 05b1b78ac3570eb459691dca60b4fb74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 412}
+  - name: UI_Animation_Glass_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 446
+      width: 64
+      height: 26
+    spriteID: d701e70d1dc70634a893120739e90b73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 446}
+  - name: UI_Animation_Glass_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 480
+      width: 64
+      height: 26
+    spriteID: 8607fe5db387f8449a0cea499fca059b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 480}
+  - name: UI_Animation_Glass_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 4
+      width: 64
+      height: 26
+    spriteID: 29f12d5afead7874db3eeb4abff3006f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 4}
+  - name: UI_Animation_Glass_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 38
+      width: 64
+      height: 26
+    spriteID: 37b42e5248b5258479383e4e1783ad36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 38}
+  - name: UI_Animation_Glass_Frame_21
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 72
+      width: 64
+      height: 26
+    spriteID: b604629b0812b9348a84f1536bbdd74f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 72}
+  - name: UI_Animation_Glass_Frame_22
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 106
+      width: 64
+      height: 26
+    spriteID: e1cf4a4c449256a44b13ff27fc33dae5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 106}
+  - name: UI_Animation_Glass_Frame_23
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 140
+      width: 64
+      height: 26
+    spriteID: 42015c6d4272ed44188879a34ba7dc81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 140}
+  - name: UI_Animation_Glass_Frame_24
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 174
+      width: 64
+      height: 26
+    spriteID: 11f9defb513430148adb7f929496cbb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 174}
+  - name: UI_Animation_Glass_Frame_25
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 208
+      width: 64
+      height: 26
+    spriteID: edd288b00e36c5a4cac3829696a1a881
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 208}
+  - name: UI_Animation_Glass_Frame_26
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 242
+      width: 64
+      height: 26
+    spriteID: 8b199e178a179cb42b0c2b5a79faa68b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 242}
+  - name: UI_Animation_Glass_Frame_27
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 276
+      width: 64
+      height: 26
+    spriteID: 9dc71e8dcc88a0f47ab6c0c4de8b950d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 276}
+  - name: UI_Animation_Glass_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 96
+      height: 26
+    spriteID: 6b17de9045d925a4e876cbd3df512b8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: UI_Animation_Glass_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 96
+      height: 26
+    spriteID: b1a310a401ab5fb479db131745813598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: UI_Animation_Glass_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 96
+      height: 26
+    spriteID: 8d98fc0feaf316345997926c5792fa2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+  - name: UI_Animation_Glass_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 106
+      width: 96
+      height: 26
+    spriteID: 4c8c55db09053b5418d2c435eebd2cd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 106}
+  - name: UI_Animation_Glass_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 96
+      height: 26
+    spriteID: 0701a9400020e1249bfbbdc13e0f9a4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 140}
+  - name: UI_Animation_Glass_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 96
+      height: 26
+    spriteID: 0b3bbf28d4dacc743bdb0eef9cfda769
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: UI_Animation_Glass_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 208
+      width: 96
+      height: 26
+    spriteID: ad82526a7ced31e4cbe82c15c1b08e8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 208}
+  - name: UI_Animation_Glass_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 242
+      width: 96
+      height: 26
+    spriteID: ef1f1b3c389d6984983eae7fd1964f69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 242}
+  - name: UI_Animation_Glass_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 276
+      width: 96
+      height: 26
+    spriteID: 5c7dc845d54a81f4a88c054a13963eec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 276}
+  - name: UI_Animation_Glass_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 310
+      width: 96
+      height: 26
+    spriteID: 7ab6f4188928580408da28d5832608e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 310}
+  - name: UI_Animation_Glass_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 344
+      width: 96
+      height: 26
+    spriteID: 73d5a79e6522a8c4296cee67661b40eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 344}
+  - name: UI_Animation_Glass_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -0.11538462}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 378
+      width: 96
+      height: 26
+    spriteID: f4ef5f967e9154240938fe657637a683
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 378}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1976513314
+    name: UI_Animation_Glass
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: UI_Animation_Glass_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      spriteId: 29306779f5602e041b07220d5c39c775
+    - name: UI_Animation_Glass_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 33
+        y: 1
+        width: 30
+        height: 30
+      spriteId: 73340be2c8f7a304785fcbf2e1070c55
+    - name: UI_Animation_Glass_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 34
+        y: 2
+        width: 28
+        height: 28
+      spriteId: d0a700ba207c89a48a93a6e9905ea110
+    - name: UI_Animation_Glass_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 33
+        y: 1
+        width: 30
+        height: 30
+      spriteId: 15aeef7997c63844da148a0f90fb38e4
+    - name: UI_Animation_Glass_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: 0d7a6ab683d81d143b7ee3be06ceb21f
+    - name: UI_Animation_Glass_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: bb74efffbf8a41c4db29b6e403e7a131
+    - name: UI_Animation_Glass_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: 278cf95854b210741bf2b1db69329927
+    - name: UI_Animation_Glass_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: 51b2cd641113ab640980e7f51c82c732
+    - name: UI_Animation_Glass_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: f264deb35e572d544b5617532d161bd0
+    - name: UI_Animation_Glass_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: 5cf1b4d1653909844ad0e43a6978f1cc
+    - name: UI_Animation_Glass_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: 5057534b0ade21f409a88c2726097737
+    - name: UI_Animation_Glass_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: fd49fa6b33780ae4b8251ab5514c9a12
+    - name: UI_Animation_Glass_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: e4f32d45aece667438af8538906515c4
+    - name: UI_Animation_Glass_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: f818b5faa4c28e443ba16f059f5efbc5
+    - name: UI_Animation_Glass_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: 6b5202452ca482343963bf1d59a4386a
+    - name: UI_Animation_Glass_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 32
+        y: 3
+        width: 32
+        height: 26
+      spriteId: 346f239b0a0b72e47a366c07212b708a
+    - name: UI_Animation_Glass_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 05b1b78ac3570eb459691dca60b4fb74
+    - name: UI_Animation_Glass_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: d701e70d1dc70634a893120739e90b73
+    - name: UI_Animation_Glass_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 8607fe5db387f8449a0cea499fca059b
+    - name: UI_Animation_Glass_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 29f12d5afead7874db3eeb4abff3006f
+    - name: UI_Animation_Glass_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 37b42e5248b5258479383e4e1783ad36
+    - name: UI_Animation_Glass_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: b604629b0812b9348a84f1536bbdd74f
+    - name: UI_Animation_Glass_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: e1cf4a4c449256a44b13ff27fc33dae5
+    - name: UI_Animation_Glass_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 42015c6d4272ed44188879a34ba7dc81
+    - name: UI_Animation_Glass_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 11f9defb513430148adb7f929496cbb6
+    - name: UI_Animation_Glass_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: edd288b00e36c5a4cac3829696a1a881
+    - name: UI_Animation_Glass_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 8b199e178a179cb42b0c2b5a79faa68b
+    - name: UI_Animation_Glass_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 16
+        y: 3
+        width: 64
+        height: 26
+      spriteId: 9dc71e8dcc88a0f47ab6c0c4de8b950d
+    - name: UI_Animation_Glass_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 6b17de9045d925a4e876cbd3df512b8b
+    - name: UI_Animation_Glass_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: b1a310a401ab5fb479db131745813598
+    - name: UI_Animation_Glass_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 8d98fc0feaf316345997926c5792fa2b
+    - name: UI_Animation_Glass_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 4c8c55db09053b5418d2c435eebd2cd8
+    - name: UI_Animation_Glass_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 0701a9400020e1249bfbbdc13e0f9a4f
+    - name: UI_Animation_Glass_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 0b3bbf28d4dacc743bdb0eef9cfda769
+    - name: UI_Animation_Glass_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: ad82526a7ced31e4cbe82c15c1b08e8f
+    - name: UI_Animation_Glass_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: ef1f1b3c389d6984983eae7fd1964f69
+    - name: UI_Animation_Glass_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 5c7dc845d54a81f4a88c054a13963eec
+    - name: UI_Animation_Glass_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 7ab6f4188928580408da28d5832608e5
+    - name: UI_Animation_Glass_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: 73d5a79e6522a8c4296cee67661b40eb
+    - name: UI_Animation_Glass_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: 3
+        width: 96
+        height: 26
+      spriteId: f4ef5f967e9154240938fe657637a683
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 32}

@@ -1,0 +1,2374 @@
+fileFormatVersion: 2
+guid: c49807f1cac39d943be4ec9d1b9885a8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: UI_Animation_Paper_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 265
+      width: 32
+      height: 32
+    spriteID: 3dffe2206f837db45bcd845b7fdc092b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 265}
+  - name: UI_Animation_Paper_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 265
+      width: 30
+      height: 30
+    spriteID: 914f09f83ab7b1947a3a678a33e781b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 265}
+  - name: UI_Animation_Paper_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 265
+      width: 28
+      height: 28
+    spriteID: b65a5bd77d341514da1ef55f8b48015d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 265}
+  - name: UI_Animation_Paper_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 265
+      width: 30
+      height: 30
+    spriteID: a93ad69ce75ac0b4aa2b1e7b8680dae5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 265}
+  - name: UI_Animation_Paper_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 265
+      width: 32
+      height: 32
+    spriteID: a45a8b4a87fe04f47a9c4fa8e13dca04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 265}
+  - name: UI_Animation_Paper_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 265
+      width: 30
+      height: 30
+    spriteID: 4c27ae70b3490cf4491c5e2cb60bb721
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 265}
+  - name: UI_Animation_Paper_Frame_6
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 265
+      width: 28
+      height: 28
+    spriteID: 4f7535cb7fba00148b70df1acf99f0b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 265}
+  - name: UI_Animation_Paper_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 265
+      width: 30
+      height: 30
+    spriteID: c4c73b390e30a8a49bcb20e0226d8b96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 265}
+  - name: UI_Animation_Paper_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 4
+      width: 24
+      height: 27
+    spriteID: 5afdac77b7887d449b18332c1ed8045d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 4}
+  - name: UI_Animation_Paper_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 39
+      width: 24
+      height: 26
+    spriteID: afdcbba3f767838499cdbeca45295921
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 39}
+  - name: UI_Animation_Paper_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 265
+      width: 24
+      height: 25
+    spriteID: 0dae7700a4b72274ea3df6cbd779d731
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 265}
+  - name: UI_Animation_Paper_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 372
+      y: 265
+      width: 24
+      height: 26
+    spriteID: 23ff224df44577745ac46f950aca1bb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 265}
+  - name: UI_Animation_Paper_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 265
+      width: 24
+      height: 27
+    spriteID: 66c96192f409c874eadcf2429f68efc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 265}
+  - name: UI_Animation_Paper_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 265
+      width: 24
+      height: 26
+    spriteID: 456bfff904bc9ba4ab65cbf8419a2919
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 265}
+  - name: UI_Animation_Paper_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 73
+      width: 24
+      height: 24
+    spriteID: d272056877916e145aea6921049c0024
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 73}
+  - name: UI_Animation_Paper_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 305
+      width: 24
+      height: 25
+    spriteID: 76422af8e4684f44885f91d4811b9c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 305}
+  - name: UI_Animation_Paper_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 305
+      width: 24
+      height: 25
+    spriteID: fa3d80f4a2f589c44be09071bc760067
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 305}
+  - name: UI_Animation_Paper_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 305
+      width: 24
+      height: 24
+    spriteID: 478adb71b9197fb42ba8996a2bfa759f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 305}
+  - name: UI_Animation_Paper_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 436
+      y: 265
+      width: 24
+      height: 26
+    spriteID: 506ec30ef1bc71b4f9966aebc5a3127f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 436, y: 265}
+  - name: UI_Animation_Paper_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 265
+      width: 24
+      height: 27
+    spriteID: c239b536a9d87c947aff543477550dd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 265}
+  - name: UI_Animation_Paper_Frame_20
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 166
+      width: 56
+      height: 27
+    spriteID: fe94050f6d3004244b2aa57ab6d085a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 166}
+  - name: UI_Animation_Paper_Frame_21
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 166
+      width: 56
+      height: 26
+    spriteID: ec46eb2e8d561d44e9c1808f0661fc86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 166}
+  - name: UI_Animation_Paper_Frame_22
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 166
+      width: 56
+      height: 25
+    spriteID: 8367a74e7ca1dff42b5c0eae952ea21d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 166}
+  - name: UI_Animation_Paper_Frame_23
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 166
+      width: 56
+      height: 26
+    spriteID: e334428c2172dd34ba8863375c8760c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 166}
+  - name: UI_Animation_Paper_Frame_24
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 166
+      width: 56
+      height: 27
+    spriteID: 00d2ffd2c4f915e4c874d0f41ed74475
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 166}
+  - name: UI_Animation_Paper_Frame_25
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 166
+      width: 56
+      height: 26
+    spriteID: 07b6f309f0babca4199497cfd0d6499e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 166}
+  - name: UI_Animation_Paper_Frame_26
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 201
+      width: 56
+      height: 24
+    spriteID: 9204b855785fbd7489255f6506b6387b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 201}
+  - name: UI_Animation_Paper_Frame_27
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 56
+      height: 25
+    spriteID: e551d8922fb1862478afa480f19f08d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 201}
+  - name: UI_Animation_Paper_Frame_28
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 201
+      width: 56
+      height: 25
+    spriteID: f19bdeed73cf1d545a21646ce860bba7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 201}
+  - name: UI_Animation_Paper_Frame_29
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 201
+      width: 56
+      height: 24
+    spriteID: 53b34482d6341a245a6abbac64dda64f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 201}
+  - name: UI_Animation_Paper_Frame_30
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 166
+      width: 56
+      height: 26
+    spriteID: 524d7037db30a084484d1719eef62018
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 166}
+  - name: UI_Animation_Paper_Frame_31
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 166
+      width: 56
+      height: 27
+    spriteID: 203f1969be71fb34ab9ff1877292a526
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 166}
+  - name: UI_Animation_Paper_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 88
+      height: 27
+    spriteID: 4ff1ca746c1ee6f46be4e306853defd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: UI_Animation_Paper_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 4
+      width: 88
+      height: 26
+    spriteID: 5ed43a7b94f3ad247b122610c082ec31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 4}
+  - name: UI_Animation_Paper_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 39
+      width: 88
+      height: 25
+    spriteID: 5d4e943875349b64ca911bf00a706f59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 39}
+  - name: UI_Animation_Paper_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 4
+      width: 88
+      height: 26
+    spriteID: 6d51578a52b60e3408aab253f89f1e88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 4}
+  - name: UI_Animation_Paper_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 88
+      height: 27
+    spriteID: b894007a8a3f0574a914a05f3966ad37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 4}
+  - name: UI_Animation_Paper_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 39
+      width: 88
+      height: 26
+    spriteID: b1209250a33033e47a66e747c287d68a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 39}
+  - name: UI_Animation_Paper_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 73
+      width: 88
+      height: 24
+    spriteID: 3098afe4109b97f4fadeb07800786db1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 73}
+  - name: UI_Animation_Paper_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 39
+      width: 88
+      height: 25
+    spriteID: ddc9b86059325e7448c6d5aa3e145b63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 39}
+  - name: UI_Animation_Paper_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -0.08}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 39
+      width: 88
+      height: 25
+    spriteID: 7efcaa3d48eba9e4796c1a72d0b2e1af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 39}
+  - name: UI_Animation_Paper_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 73
+      width: 88
+      height: 24
+    spriteID: 39f96d333a6f93e478387aa3d384737d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 73}
+  - name: UI_Animation_Paper_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 39
+      width: 88
+      height: 26
+    spriteID: 0e9e6cde404141c47b0f1a3b483112fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 39}
+  - name: UI_Animation_Paper_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: -0.074074075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 4
+      width: 88
+      height: 27
+    spriteID: 91216945e0478ac418b0e3c7445f162f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 4}
+  - name: UI_Animation_Paper_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 305
+      width: 24
+      height: 24
+    spriteID: e1115bd607c4267429569738108930eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 305}
+  - name: UI_Animation_Paper_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 105
+      width: 24
+      height: 23
+    spriteID: be04f8440fd0a124e9ee0d3ea3337f43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 105}
+  - name: UI_Animation_Paper_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 234
+      width: 24
+      height: 22
+    spriteID: 2a80e08fe5dd8b648aa525e58b26738f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 234}
+  - name: UI_Animation_Paper_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 234
+      width: 24
+      height: 23
+    spriteID: ca0c9488771a2ec4fb965e20782aec96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 234}
+  - name: UI_Animation_Paper_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 305
+      width: 24
+      height: 24
+    spriteID: 0fcc7ec13c8069f4c817c011e6499747
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 305}
+  - name: UI_Animation_Paper_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 234
+      width: 24
+      height: 23
+    spriteID: 1467ada479ed6204fb4ee0b6767c3a17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 234}
+  - name: UI_Animation_Paper_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 305
+      width: 24
+      height: 21
+    spriteID: cb81f6f066e01544fad8755a0c086389
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 305}
+  - name: UI_Animation_Paper_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 305
+      width: 24
+      height: 22
+    spriteID: 1513a717303f7c042be01020e5a8e83e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 305}
+  - name: UI_Animation_Paper_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 305
+      width: 24
+      height: 22
+    spriteID: c4ca742dbbbb8ef45affcbe806dad622
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 305}
+  - name: UI_Animation_Paper_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 305
+      width: 24
+      height: 21
+    spriteID: 4e68d0aaf9fa0444f93f2b6380b3b147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 305}
+  - name: UI_Animation_Paper_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 234
+      width: 24
+      height: 23
+    spriteID: 81175ceff2fe68042bd5e2383213868e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 234}
+  - name: UI_Animation_Paper_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 305
+      width: 24
+      height: 24
+    spriteID: a9161cad5771f4c48a6b2eadff09fada
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 305}
+  - name: UI_Animation_Paper_Frame_56
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 201
+      width: 56
+      height: 24
+    spriteID: f2c1968bb8f0b334cb0506ba52c12fdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 201}
+  - name: UI_Animation_Paper_Frame_57
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 201
+      width: 56
+      height: 23
+    spriteID: 9f1529090d8eadf47b13f478c85975e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 201}
+  - name: UI_Animation_Paper_Frame_58
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 136
+      width: 56
+      height: 22
+    spriteID: f69797804b03b6748ab3d922334d5bca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 136}
+  - name: UI_Animation_Paper_Frame_59
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 234
+      width: 56
+      height: 23
+    spriteID: 2a2d5a91199705a469c767a106c69021
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 234}
+  - name: UI_Animation_Paper_Frame_60
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 201
+      width: 56
+      height: 24
+    spriteID: d9de5b8a7a3c02a43bf0c5e29c65a6ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 201}
+  - name: UI_Animation_Paper_Frame_61
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 234
+      width: 56
+      height: 23
+    spriteID: f3c2108292f00ad49a9883899a20ea92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 234}
+  - name: UI_Animation_Paper_Frame_62
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 234
+      width: 56
+      height: 21
+    spriteID: 378a1d3679d8dd04d95890b104c0c000
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 234}
+  - name: UI_Animation_Paper_Frame_63
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 136
+      width: 56
+      height: 22
+    spriteID: 8260a379a4690f64eb2591c99f8906f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 136}
+  - name: UI_Animation_Paper_Frame_64
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 234
+      width: 56
+      height: 22
+    spriteID: c57dcb2d76dd2d14d8faf2b088bcb387
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 234}
+  - name: UI_Animation_Paper_Frame_65
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 234
+      width: 56
+      height: 21
+    spriteID: ca9b8c6a797185641aa5df0f0ac764c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 234}
+  - name: UI_Animation_Paper_Frame_66
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 234
+      width: 56
+      height: 23
+    spriteID: 4913afbca4f61d94189c3884cc6e201b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 234}
+  - name: UI_Animation_Paper_Frame_67
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 201
+      width: 56
+      height: 24
+    spriteID: a209f4feca194f540806055a303ba799
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 201}
+  - name: UI_Animation_Paper_Frame_68
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 73
+      width: 88
+      height: 24
+    spriteID: 9baa5dee907ca8f4795892415ecc13e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 73}
+  - name: UI_Animation_Paper_Frame_69
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 105
+      width: 88
+      height: 23
+    spriteID: f3172b47f7cf92246b1f423a3aae8312
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 105}
+  - name: UI_Animation_Paper_Frame_70
+    originalName: 
+    pivot: {x: 0.5, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 105
+      width: 88
+      height: 22
+    spriteID: 9aaef95b169b34f4fa158e47ed067ed2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 105}
+  - name: UI_Animation_Paper_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 105
+      width: 88
+      height: 23
+    spriteID: 0831aeb92201b0a41b7abc22f098bdb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 105}
+  - name: UI_Animation_Paper_Frame_72
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 73
+      width: 88
+      height: 24
+    spriteID: df21e3c1f3ba1b44ab353654a4318d29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 73}
+  - name: UI_Animation_Paper_Frame_73
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 105
+      width: 88
+      height: 23
+    spriteID: 08347dff946a3d54c830e663099b35c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 105}
+  - name: UI_Animation_Paper_Frame_74
+    originalName: 
+    pivot: {x: 0.5, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 136
+      width: 88
+      height: 21
+    spriteID: f3aa1e9272053fc4c989b719ddea2d11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 136}
+  - name: UI_Animation_Paper_Frame_75
+    originalName: 
+    pivot: {x: 0.5, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 88
+      height: 22
+    spriteID: 273b58f24ab7dd54292b4a1fbce9f3b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: UI_Animation_Paper_Frame_76
+    originalName: 
+    pivot: {x: 0.5, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 136
+      width: 88
+      height: 22
+    spriteID: 7a56def3a07846b4b80391f014221004
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 136}
+  - name: UI_Animation_Paper_Frame_77
+    originalName: 
+    pivot: {x: 0.5, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 136
+      width: 88
+      height: 21
+    spriteID: 928204999f542e74f9557d9b8ef9deb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 136}
+  - name: UI_Animation_Paper_Frame_78
+    originalName: 
+    pivot: {x: 0.5, y: -0.17391305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 105
+      width: 88
+      height: 23
+    spriteID: a494b5e2b3eb92747a682405d0999262
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 105}
+  - name: UI_Animation_Paper_Frame_79
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 73
+      width: 88
+      height: 24
+    spriteID: e377a764c7c962b4490496640d936a06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 73}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1131514988
+    name: UI_Animation_Paper
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: UI_Animation_Paper_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      spriteId: 3dffe2206f837db45bcd845b7fdc092b
+    - name: UI_Animation_Paper_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 33
+        y: 1
+        width: 30
+        height: 30
+      spriteId: 914f09f83ab7b1947a3a678a33e781b6
+    - name: UI_Animation_Paper_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 34
+        y: 2
+        width: 28
+        height: 28
+      spriteId: b65a5bd77d341514da1ef55f8b48015d
+    - name: UI_Animation_Paper_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 33
+        y: 1
+        width: 30
+        height: 30
+      spriteId: a93ad69ce75ac0b4aa2b1e7b8680dae5
+    - name: UI_Animation_Paper_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      spriteId: a45a8b4a87fe04f47a9c4fa8e13dca04
+    - name: UI_Animation_Paper_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 33
+        y: 1
+        width: 30
+        height: 30
+      spriteId: 4c27ae70b3490cf4491c5e2cb60bb721
+    - name: UI_Animation_Paper_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 34
+        y: 2
+        width: 28
+        height: 28
+      spriteId: 4f7535cb7fba00148b70df1acf99f0b3
+    - name: UI_Animation_Paper_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 33
+        y: 1
+        width: 30
+        height: 30
+      spriteId: c4c73b390e30a8a49bcb20e0226d8b96
+    - name: UI_Animation_Paper_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 27
+      spriteId: 5afdac77b7887d449b18332c1ed8045d
+    - name: UI_Animation_Paper_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 26
+      spriteId: afdcbba3f767838499cdbeca45295921
+    - name: UI_Animation_Paper_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 25
+      spriteId: 0dae7700a4b72274ea3df6cbd779d731
+    - name: UI_Animation_Paper_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 26
+      spriteId: 23ff224df44577745ac46f950aca1bb1
+    - name: UI_Animation_Paper_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 27
+      spriteId: 66c96192f409c874eadcf2429f68efc7
+    - name: UI_Animation_Paper_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 26
+      spriteId: 456bfff904bc9ba4ab65cbf8419a2919
+    - name: UI_Animation_Paper_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 24
+      spriteId: d272056877916e145aea6921049c0024
+    - name: UI_Animation_Paper_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 25
+      spriteId: 76422af8e4684f44885f91d4811b9c46
+    - name: UI_Animation_Paper_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 25
+      spriteId: fa3d80f4a2f589c44be09071bc760067
+    - name: UI_Animation_Paper_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 24
+      spriteId: 478adb71b9197fb42ba8996a2bfa759f
+    - name: UI_Animation_Paper_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 26
+      spriteId: 506ec30ef1bc71b4f9966aebc5a3127f
+    - name: UI_Animation_Paper_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 36
+        y: 2
+        width: 24
+        height: 27
+      spriteId: c239b536a9d87c947aff543477550dd6
+    - name: UI_Animation_Paper_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 27
+      spriteId: fe94050f6d3004244b2aa57ab6d085a0
+    - name: UI_Animation_Paper_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 26
+      spriteId: ec46eb2e8d561d44e9c1808f0661fc86
+    - name: UI_Animation_Paper_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 25
+      spriteId: 8367a74e7ca1dff42b5c0eae952ea21d
+    - name: UI_Animation_Paper_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 26
+      spriteId: e334428c2172dd34ba8863375c8760c7
+    - name: UI_Animation_Paper_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 27
+      spriteId: 00d2ffd2c4f915e4c874d0f41ed74475
+    - name: UI_Animation_Paper_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 26
+      spriteId: 07b6f309f0babca4199497cfd0d6499e
+    - name: UI_Animation_Paper_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 24
+      spriteId: 9204b855785fbd7489255f6506b6387b
+    - name: UI_Animation_Paper_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 25
+      spriteId: e551d8922fb1862478afa480f19f08d0
+    - name: UI_Animation_Paper_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 25
+      spriteId: f19bdeed73cf1d545a21646ce860bba7
+    - name: UI_Animation_Paper_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 24
+      spriteId: 53b34482d6341a245a6abbac64dda64f
+    - name: UI_Animation_Paper_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 26
+      spriteId: 524d7037db30a084484d1719eef62018
+    - name: UI_Animation_Paper_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 20
+        y: 2
+        width: 56
+        height: 27
+      spriteId: 203f1969be71fb34ab9ff1877292a526
+    - name: UI_Animation_Paper_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 27
+      spriteId: 4ff1ca746c1ee6f46be4e306853defd3
+    - name: UI_Animation_Paper_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 26
+      spriteId: 5ed43a7b94f3ad247b122610c082ec31
+    - name: UI_Animation_Paper_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 25
+      spriteId: 5d4e943875349b64ca911bf00a706f59
+    - name: UI_Animation_Paper_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 26
+      spriteId: 6d51578a52b60e3408aab253f89f1e88
+    - name: UI_Animation_Paper_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 27
+      spriteId: b894007a8a3f0574a914a05f3966ad37
+    - name: UI_Animation_Paper_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 26
+      spriteId: b1209250a33033e47a66e747c287d68a
+    - name: UI_Animation_Paper_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 24
+      spriteId: 3098afe4109b97f4fadeb07800786db1
+    - name: UI_Animation_Paper_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 25
+      spriteId: ddc9b86059325e7448c6d5aa3e145b63
+    - name: UI_Animation_Paper_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 25
+      spriteId: 7efcaa3d48eba9e4796c1a72d0b2e1af
+    - name: UI_Animation_Paper_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 24
+      spriteId: 39f96d333a6f93e478387aa3d384737d
+    - name: UI_Animation_Paper_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 26
+      spriteId: 0e9e6cde404141c47b0f1a3b483112fc
+    - name: UI_Animation_Paper_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 4
+        y: 2
+        width: 88
+        height: 27
+      spriteId: 91216945e0478ac418b0e3c7445f162f
+    - name: UI_Animation_Paper_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 24
+      spriteId: e1115bd607c4267429569738108930eb
+    - name: UI_Animation_Paper_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 23
+      spriteId: be04f8440fd0a124e9ee0d3ea3337f43
+    - name: UI_Animation_Paper_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 22
+      spriteId: 2a80e08fe5dd8b648aa525e58b26738f
+    - name: UI_Animation_Paper_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 23
+      spriteId: ca0c9488771a2ec4fb965e20782aec96
+    - name: UI_Animation_Paper_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 24
+      spriteId: 0fcc7ec13c8069f4c817c011e6499747
+    - name: UI_Animation_Paper_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 23
+      spriteId: 1467ada479ed6204fb4ee0b6767c3a17
+    - name: UI_Animation_Paper_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 21
+      spriteId: cb81f6f066e01544fad8755a0c086389
+    - name: UI_Animation_Paper_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 22
+      spriteId: 1513a717303f7c042be01020e5a8e83e
+    - name: UI_Animation_Paper_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 22
+      spriteId: c4ca742dbbbb8ef45affcbe806dad622
+    - name: UI_Animation_Paper_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 21
+      spriteId: 4e68d0aaf9fa0444f93f2b6380b3b147
+    - name: UI_Animation_Paper_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 23
+      spriteId: 81175ceff2fe68042bd5e2383213868e
+    - name: UI_Animation_Paper_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 36
+        y: 4
+        width: 24
+        height: 24
+      spriteId: a9161cad5771f4c48a6b2eadff09fada
+    - name: UI_Animation_Paper_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 24
+      spriteId: f2c1968bb8f0b334cb0506ba52c12fdd
+    - name: UI_Animation_Paper_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 23
+      spriteId: 9f1529090d8eadf47b13f478c85975e6
+    - name: UI_Animation_Paper_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 22
+      spriteId: f69797804b03b6748ab3d922334d5bca
+    - name: UI_Animation_Paper_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 23
+      spriteId: 2a2d5a91199705a469c767a106c69021
+    - name: UI_Animation_Paper_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 24
+      spriteId: d9de5b8a7a3c02a43bf0c5e29c65a6ad
+    - name: UI_Animation_Paper_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 23
+      spriteId: f3c2108292f00ad49a9883899a20ea92
+    - name: UI_Animation_Paper_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 21
+      spriteId: 378a1d3679d8dd04d95890b104c0c000
+    - name: UI_Animation_Paper_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 22
+      spriteId: 8260a379a4690f64eb2591c99f8906f7
+    - name: UI_Animation_Paper_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 22
+      spriteId: c57dcb2d76dd2d14d8faf2b088bcb387
+    - name: UI_Animation_Paper_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 21
+      spriteId: ca9b8c6a797185641aa5df0f0ac764c1
+    - name: UI_Animation_Paper_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 23
+      spriteId: 4913afbca4f61d94189c3884cc6e201b
+    - name: UI_Animation_Paper_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 20
+        y: 4
+        width: 56
+        height: 24
+      spriteId: a209f4feca194f540806055a303ba799
+    - name: UI_Animation_Paper_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 24
+      spriteId: 9baa5dee907ca8f4795892415ecc13e4
+    - name: UI_Animation_Paper_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 23
+      spriteId: f3172b47f7cf92246b1f423a3aae8312
+    - name: UI_Animation_Paper_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 22
+      spriteId: 9aaef95b169b34f4fa158e47ed067ed2
+    - name: UI_Animation_Paper_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 23
+      spriteId: 0831aeb92201b0a41b7abc22f098bdb0
+    - name: UI_Animation_Paper_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 24
+      spriteId: df21e3c1f3ba1b44ab353654a4318d29
+    - name: UI_Animation_Paper_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 23
+      spriteId: 08347dff946a3d54c830e663099b35c2
+    - name: UI_Animation_Paper_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 21
+      spriteId: f3aa1e9272053fc4c989b719ddea2d11
+    - name: UI_Animation_Paper_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 22
+      spriteId: 273b58f24ab7dd54292b4a1fbce9f3b9
+    - name: UI_Animation_Paper_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 22
+      spriteId: 7a56def3a07846b4b80391f014221004
+    - name: UI_Animation_Paper_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 21
+      spriteId: 928204999f542e74f9557d9b8ef9deb8
+    - name: UI_Animation_Paper_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 23
+      spriteId: a494b5e2b3eb92747a682405d0999262
+    - name: UI_Animation_Paper_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 4
+        y: 4
+        width: 88
+        height: 24
+      spriteId: e377a764c7c962b4490496640d936a06
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 32}
