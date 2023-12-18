@@ -11,18 +11,15 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer;
 
-    // Update is called once per frame
-    void Update()
-    {
-        // Input
-
-        rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized * moveSpeed;
-        animator.SetFloat("Speed", rb.velocity.magnitude);
-
-    }
-
     void FixedUpdate()
     {
+        rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized * moveSpeed;
+    }
+
+    void Update()
+    {
+        animator.SetFloat("Speed", rb.velocity.magnitude);
+
         if (Input.GetKey("w"))
         {
             animator.SetTrigger("Up");
