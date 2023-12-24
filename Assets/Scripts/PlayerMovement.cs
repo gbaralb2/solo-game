@@ -7,14 +7,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
-    Vector2 movement;
     public Animator animator;
     public SpriteRenderer spriteRenderer;
-
-    void FixedUpdate()
-    {
-        rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized * moveSpeed;
-    }
 
     void Update()
     {
@@ -36,5 +30,10 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetTrigger("Right");
         }
+    }
+
+    void FixedUpdate()
+    {
+        rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized * moveSpeed;
     }
 }

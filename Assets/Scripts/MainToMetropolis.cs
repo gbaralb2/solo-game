@@ -20,8 +20,11 @@ public class MainToMetropolis : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D player)
     {
+        if (player.CompareTag("Player"))
+        {
         sceneLoader.transition = transition;
         playerSpawn.UpdateSpawn(spawnPos);
         sceneLoader.LoadNextScene(1);
+        }
     }
 }
